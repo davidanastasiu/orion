@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Overview of Orion}{}% 2
+\BOOKMARK [1][-]{section.3}{The Orion program}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Input file formats}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Time series data}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Feature labels}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Using Orion}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Execution information}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Proto distances}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Proto-to-proto transition matrix}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Proto features}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Frequent proto-to-proto transitions}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Output file formats}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Proto paths}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Proto key features}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Proto-to-proto transitions}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Level-wise proto transitions}{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Frequent proto-to-proto transitions}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Proto vectors}{subsection.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.4}{Visualizing Orion output}{section.3}% 20
+\BOOKMARK [3][-]{subsubsection.3.4.1}{The sankey.py script}{subsection.3.4}% 21
+\BOOKMARK [3][-]{subsubsection.3.4.2}{The transitions.py script}{subsection.3.4}% 22
+\BOOKMARK [2][-]{subsection.3.5}{Execution examples}{section.3}% 23
+\BOOKMARK [1][-]{section.4}{System requirements and contact information}{}% 24
+\BOOKMARK [1][-]{section.5}{Copyright \046 license notice}{}% 25

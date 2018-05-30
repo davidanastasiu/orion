@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{AbonyiFNA03}
+Janos Abonyi, Balazs Feil, Sandor Nemeth, and Peter Arva.
+\newblock Fuzzy clustering based segmentation of time-series.
+\newblock In Michael R.~Berthold, Hans-Joachim Lenz, Elizabeth Bradley, Rudolf
+  Kruse, and Christian Borgelt, editors, {\em Advances in Intelligent Data
+  Analysis V}, volume 2810 of {\em Lecture Notes in Computer Science}, pages
+  275--285. Springer Berlin Heidelberg, 2003.
+
+\bibitem{AbonyiFNA05}
+Janos Abonyi, Balazs Feil, Sandor Nemeth, and Peter Arva.
+\newblock Modified gath--geva clustering for fuzzy segmentation of multivariate
+  time-series.
+\newblock {\em Fuzzy Sets Syst.}, 149(1):39--56, January 2005.
+
+\bibitem{AnastasiuRTK15}
+David~C. Anastasiu, Al~M. Rashid, Andrea Tagarelli, and George Karypis.
+\newblock Understanding computer usage evolution.
+\newblock In {\em 31st IEEE International Conference on Data Engineering}, ICDE
+  '15, 2015.
+
+\bibitem{GuoLS14}
+Hongyue Guo, Xiaodong Liu, and Lixin Song.
+\newblock Dynamic programming approach for segmentation of multivariate time
+  series.
+\newblock {\em Stochastic Environmental Research and Risk Assessment}, pages
+  1--9, 2014.
+
+\bibitem{WangLY12}
+N.~Wang, X.~Liu, and J.~Yin.
+\newblock Improved gath-geva clustering for fuzzy segmentation of
+  hydrometeorological time series.
+\newblock {\em Stochastic Environmental Research and Risk Assessment},
+  26:139--155, 2012.
+
+\end{thebibliography}

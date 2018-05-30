@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Overview of {\scshape Orion}\xspace }{3}{section.2}
+\contentsline {section}{\numberline {3}The {\scshape Orion}\xspace program}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Input file formats}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Time series data}{4}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Feature labels}{5}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Using {\scshape Orion}\xspace }{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Execution information}{7}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Proto distances}{7}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Proto-to-proto transition matrix}{8}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Proto features}{8}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Frequent proto-to-proto transitions}{9}{subsubsection.3.2.5}
+\contentsline {subsection}{\numberline {3.3}Output file formats}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Proto paths}{10}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Proto key features}{10}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Proto-to-proto transitions}{10}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Level-wise proto transitions}{11}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Frequent proto-to-proto transitions}{11}{subsubsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.6}Proto vectors}{11}{subsubsection.3.3.6}
+\contentsline {subsection}{\numberline {3.4}Visualizing {\scshape Orion}\xspace output}{11}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}The sankey.py script}{11}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}The transitions.py script}{11}{subsubsection.3.4.2}
+\contentsline {subsection}{\numberline {3.5}Execution examples}{13}{subsection.3.5}
+\contentsline {section}{\numberline {4}System requirements and contact information}{14}{section.4}
+\contentsline {section}{\numberline {5}Copyright \& license notice}{14}{section.5}
