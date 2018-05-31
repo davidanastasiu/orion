@@ -1,0 +1,63 @@
+------------------------------------------------------------------------------
+Building Orion requires CMake 2.8, found at http://www.cmake.org/, as
+well as GNU make. Assuming CMake and GNU make are installed, two
+commands should suffice to build Orion:
+
+     $ make config
+     $ make
+
+If <make> is successful, the program executable will be located in the 
+build/<architecture>/src/ directory (e.g. build/Linux-x86_64/src/ for 64-bit
+Linux). You may also invoke <make install> to automatically copy the file to
+your chosen install location.
+
+
+Configuration
+-------------
+Orion is primarily configured by passing options to make config. For
+example:
+
+     $ make config cc=gcc-4.2
+
+would configure Orion to be built using GCC 4.2.
+
+Common configuration options are:
+  cc=[compiler]   - The C compiler to use [default is determined by CMake]
+  prefix=[PATH]   - Set the installation prefix [/usr/local/ by default]
+
+Advanced debugging related options:
+  gdb=1       - Build with support for GDB [off by default]
+  debug=1     - Enable debugging support [off by default]
+  assert=1    - Enable asserts [off by default]
+  assert2=1   - Enable very expensive asserts [off by default]
+
+Orion's index and real data type size can be configured by editing
+src/orion.h.
+
+
+Installation
+------------
+To install Orion, run
+
+    $ make install
+
+The default installation prefix is /usr/local. To pick an installation 
+prefix for Orion pass prefix=[path] to make config. For example,
+
+    $ make config prefix=~/myroot/
+
+will cause Orion to be installed in ~/myroot/ when make install is run.
+
+
+Other make commands
+-------------------
+   $ make uninstall 
+          Removes all files installed by 'make install'.
+   
+   $ make clean 
+          Removes all object files but retains the configuration options.
+   
+   $ make distclean 
+          Performs clean and completely removes the build directory.
+
+------------------------------------------------------------------------------
